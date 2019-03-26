@@ -8,9 +8,9 @@ spring:
     config:
       server:
         git:
-          username: frmsconfig
-          password: acSBdfdsage9180kt_0
-          uri: http://120.27.228.158/frms/frms-config.git
+         username: 0
+          password: 0
+          uri: http:///frms/frms-config.git
           basedir: /usr/local/porter/porter-config/git_dir
 
 logging:
